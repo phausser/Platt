@@ -1,0 +1,13 @@
+# Name: Platt xfwm4 theme
+# Author: Patrick Gerdsmeier
+# License: GPL-3.0+
+
+active_text_color=#ecf0f1
+inactive_text_color=#dadada
+button_offset=6
+button_spacing=6
+title_horizontal_offset=6
+show_app_icon=false
+maximized_offset=6
+title_shadow_active=false
+title_shadow_inactive=false
